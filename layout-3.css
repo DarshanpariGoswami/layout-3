@@ -86,3 +86,25 @@ font-size: 25px;
 { font-size: 100px;
   color: red;
 }
+.coded
+{
+    background-color: aqua;
+    width: 250px;
+    height: 250px;
+    position: relative;
+ left: 860px;
+ bottom: 186px;
+}
+.secondcontainer
+{
+    position: relative;
+    bottom: 1200px;
+}
+#ourcompanie
+{
+    color: red;
+}
+.lastcontainer
+{ position: relative;
+    bottom: 1400px;
+}
