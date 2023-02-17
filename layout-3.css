@@ -20,7 +20,7 @@ color: gainsboro;
 {
     position: relative;
     top: 200px;
-    left: 70px;
+    left: 100px;
 }
 #trending
 {
@@ -89,22 +89,52 @@ font-size: 25px;
 .coded
 {
     background-color: aqua;
-    width: 250px;
+    width: 310px;
     height: 250px;
     position: relative;
- left: 860px;
- bottom: 186px;
+ left: 800px;
+ bottom:196px;
 }
 .secondcontainer
 {
     position: relative;
-    bottom: 1200px;
+    bottom: 1190px;
 }
 #ourcompanie
 {
     color: red;
 }
-.lastcontainer
+.lastdiv
 { position: relative;
-    bottom: 1400px;
+    bottom: 1380px;
+    opacity:;
+    bottom: 1390px;
+    background-color: antiquewhite;
+    width: 600px;
+    height: 500px;
+
+}
+#secondid
+{
+    color: green;
+}
+.lastbox
+{
+position: relative;
+    bottom: 1380px;
+    opacity: ;
+    left: 600px;
+    bottom: 1890px;
+    background-color:white;
+    width: 509px;
+    padding: 50px;
+    height: 500px;  
+}
+#redline
+{
+    position: relative;
+    background-color: red;
+    width: 600px;
+    height: 10px;
+    bottom: 1390;
 }
