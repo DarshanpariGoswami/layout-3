@@ -1,0 +1,84 @@
+
+#uid
+{font-size: 100px;
+color: gainsboro;
+}
+#programmingimg
+{
+    width: 100%;
+    }
+#hline
+{
+    border: 1px solid;
+    background-color: aqua;
+    width: 70px;
+    position: relative;
+    top: 30px;
+    padding: 9px;
+}
+.uandhline
+{
+    position: relative;
+    top: 200px;
+    left: 70px;
+}
+#trending
+{
+font-size: 25px;
+}
+#soft
+{
+    font-size: 25px;;
+}
+.trendandsoft
+{
+    position: relative;
+    bottom:20px; 
+    color: white;
+}
+.transp-box
+{    position: relative; 
+    border: 1px solid;
+    opacity: 0.4;
+    background-color: black;
+    padding: 70px;
+    bottom: 740px;
+    height: 180PX;
+     width: 800px;
+}
+.transp-verbox
+{
+    position: relative;
+        border: 1px solid;
+        opacity: 0.4;
+        background-color:seashell;
+        padding: 70px;
+        left: 800px;
+         bottom: 922PX;
+         height: 500px;
+        width: 310px;
+}
+.transp-squrebox
+{
+    position: relative;
+        border: 1px solid;
+        opacity:0 ;
+        background-color:black;
+        padding: 80px;
+        right: 103px;
+        top: 200px;
+        height: 250px;
+        width: 312px;
+}
+.transp-hbox2
+{
+    position: relative;
+        border: 1px solid;
+        opacity:0.5;
+        background-color: yellow;
+        padding: 70px;
+        right: 871px;
+        bottom: 149px;
+        height: 290px;
+        width: 800px;
+}
