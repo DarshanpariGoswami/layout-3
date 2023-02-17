@@ -62,12 +62,12 @@ font-size: 25px;
 {
     position: relative;
         border: 1px solid;
-        opacity:0 ;
+        opacity:0.5;
         background-color:black;
         padding: 80px;
-        right: 103px;
-        top: 200px;
-        height: 250px;
+        left: 798px;
+         bottom: 925px;
+        height: 245px;
         width: 312px;
 }
 .transp-hbox2
@@ -77,8 +77,12 @@ font-size: 25px;
         opacity:0.5;
         background-color: yellow;
         padding: 70px;
-        right: 871px;
-        bottom: 149px;
-        height: 290px;
+        left: 0px;
+        bottom: 1170px;
+        height: 245px;
         width: 800px;
+}
+#hirstid
+{ font-size: 100px;
+  color: red;
 }
