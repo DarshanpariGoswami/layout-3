@@ -64,11 +64,20 @@ font-size: 25px;
         border: 1px solid;
         opacity:0.5;
         background-color:black;
-        padding: 2Px;
+        padding: 10Px;
         left: 798px;
          bottom: 925px;
         height: 245px;
         width: 312px;
+}
+.DEMO
+{
+    color: white;
+    text-align: right;
+}
+ul,li
+{
+    text-align: left;
 }
 .transp-hbox2
 {
@@ -130,6 +139,12 @@ font-size: 25px;
 #secondid
 {
     color: green;
+    font-size: 60px;
+}
+.secondandend
+{
+    position: relative;
+    left: 120px;
 }
 .lastbox
 {
@@ -145,6 +160,18 @@ position: relative;
 #TROPIE
 {
     width: 100px;
+    position: relative;
+    left: 399px;
+}
+#earn
+{
+    position: relative;
+    left: 400px;
+}
+#REWARD
+{
+position: relative;
+    left: 200px;
 }
 #redline
 {
@@ -152,7 +179,7 @@ position: relative;
     background-color: red;
     width: 600px;
     height: 10px;
-    bottom: 2px;
+    top: 55px;
 }
 #lastcon
 {
