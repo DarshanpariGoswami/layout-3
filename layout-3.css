@@ -64,19 +64,48 @@ font-size: 25px;
         border: 1px solid;
         opacity:0.5;
         background-color:black;
-        padding: 10Px;
-        left: 798px;
+        padding: 0Px;
+        left: 800px;
          bottom: 925px;
         height: 245px;
         width: 312px;
-}
-.DEMO
+}   
+#DEMO
 {
     color: white;
     text-align: right;
+    bottom:10PX;
 }
+#PHONE
+{
+    position: relative;
+    left: 200PX;
+       bottom: 38PX;
+    color: white;
+}
+#WWW
+{
+    position: relative;
+    bottom: 80PX;
+    color: white;
+}
+#email
+{
+    position: relative;
+        bottom: 37PX;
+            color: white;
+    }
+#email2
+{
+position: relative;
+    left: 228PX;
+    bottom: 75PX;
+    color: white;
+}
+
 ul,li
 {
+    direction:rtl;
     text-align: left;
 }
 .transp-hbox2
@@ -98,7 +127,7 @@ ul,li
 .coded
 {
     background-color: aqua;
-    padding: 20PX;
+    padding: 2PX;
     width: 310px;
     height: 250px;
     position: relative;
@@ -161,7 +190,7 @@ position: relative;
 {
     width: 100px;
     position: relative;
-    left: 399px;
+    left: 398px;
 }
 #earn
 {
