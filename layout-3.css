@@ -5,7 +5,9 @@ color: gainsboro;
 }
 #programmingimg
 {
-    width: 100%;
+   max-width: 100%;
+    background-size: 100% 100%;
+    height: auto;
     }
 #hline
 {
@@ -107,6 +109,7 @@ ul,li
 {
     direction:rtl;
     text-align: left;
+    font-size: 45px;
 }
 .transp-hbox2
 {
@@ -133,6 +136,11 @@ ul,li
     position: relative;
  left: 800px;
  bottom:196px;
+}
+#co
+{  position: relative;
+    left: 130px;
+     bottom: 60px;
 }
 #LOGOIMG
 {
@@ -208,7 +216,7 @@ position: relative;
     background-color: red;
     width: 600px;
     height: 10px;
-    top: 55px;
+    top: 25px;
 }
 #lastcon
 {
